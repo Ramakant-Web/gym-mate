@@ -137,7 +137,7 @@ function Navbar() {
                   <Link
                     onClick={() => window.top(0, 0)}
                     className="text-[2rem] font-medium hover:text-[#ff0336] ease-in duration-200"
-                    to={"/contact"}
+                    to="/contact"
                   >
                     Contact
                   </Link>
